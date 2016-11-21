@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "user_id": 11,
+    "credit_card": "3535556128817011",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 2,
+    "user_id": 14,
+    "credit_card": "30167287211644",
+    "credit_card_type": "diners-club-carte-blanche"
+  },
+  {
+    "id": 3,
+    "user_id": 21,
+    "credit_card": "30502416521143",
+    "credit_card_type": "diners-club-carte-blanche"
+  },
+  {
+    "id": 4,
+    "user_id": 12,
+    "credit_card": "3560650670901469",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 5,
+    "user_id": 26,
+    "credit_card": "3568906354365419",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 6,
+    "user_id": 5,
+    "credit_card": "3561054867907604",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 7,
+    "user_id": 15,
+    "credit_card": "3559118853172376",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 8,
+    "user_id": 17,
+    "credit_card": "3549911197499759",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 9,
+    "user_id": 36,
+    "credit_card": "201687234173368",
+    "credit_card_type": "diners-club-enroute"
+  },
+  {
+    "id": 10,
+    "user_id": 15,
+    "credit_card": "3536330094549118",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 11,
+    "user_id": 3,
+    "credit_card": "337941759155400",
+    "credit_card_type": "americanexpress"
+  },
+  {
+    "id": 12,
+    "user_id": 13,
+    "credit_card": "4175005736001975",
+    "credit_card_type": "visa-electron"
+  },
+  {
+    "id": 13,
+    "user_id": 49,
+    "credit_card": "3566442918603386",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 14,
+    "user_id": 36,
+    "credit_card": "3541040309416358",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 15,
+    "user_id": 37,
+    "credit_card": "06048581345756530",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 16,
+    "user_id": 16,
+    "credit_card": "3544127993129947",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 17,
+    "user_id": 30,
+    "credit_card": "56109879726321861",
+    "credit_card_type": "china-unionpay"
+  },
+  {
+    "id": 18,
+    "user_id": 45,
+    "credit_card": "5602231549042358",
+    "credit_card_type": "bankcard"
+  },
+  {
+    "id": 19,
+    "user_id": 41,
+    "credit_card": "3530801080635935",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 20,
+    "user_id": 26,
+    "credit_card": "5602240103132596",
+    "credit_card_type": "bankcard"
+  },
+  {
+    "id": 21,
+    "user_id": 1,
+    "credit_card": "3548368918043971",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 22,
+    "user_id": 22,
+    "credit_card": "491124523774416740",
+    "credit_card_type": "switch"
+  },
+  {
+    "id": 23,
+    "user_id": 10,
+    "credit_card": "6304762104980029",
+    "credit_card_type": "laser"
+  },
+  {
+    "id": 24,
+    "user_id": 24,
+    "credit_card": "4017955606983",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 25,
+    "user_id": 43,
+    "credit_card": "4041591209801076",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 26,
+    "user_id": 32,
+    "credit_card": "5602211985895657463",
+    "credit_card_type": "china-unionpay"
+  },
+  {
+    "id": 27,
+    "user_id": 48,
+    "credit_card": "3529685096064351",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 28,
+    "user_id": 38,
+    "credit_card": "3557502432945778",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 29,
+    "user_id": 42,
+    "credit_card": "5048371953379912",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 30,
+    "user_id": 17,
+    "credit_card": "5100149715719640",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 31,
+    "user_id": 16,
+    "credit_card": "3540615273074852",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 32,
+    "user_id": 16,
+    "credit_card": "5010124902930572",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 33,
+    "user_id": 18,
+    "credit_card": "4936158074838720130",
+    "credit_card_type": "switch"
+  },
+  {
+    "id": 34,
+    "user_id": 37,
+    "credit_card": "5048379074156614",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 35,
+    "user_id": 46,
+    "credit_card": "3563103709027994",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 36,
+    "user_id": 18,
+    "credit_card": "5108756785912863",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 37,
+    "user_id": 12,
+    "credit_card": "3554595450484863",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 38,
+    "user_id": 11,
+    "credit_card": "4041598368066",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 39,
+    "user_id": 9,
+    "credit_card": "3540305917818001",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 40,
+    "user_id": 50,
+    "credit_card": "5493035860853505",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 41,
+    "user_id": 8,
+    "credit_card": "5048374064338157",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 42,
+    "user_id": 9,
+    "credit_card": "3573875590839375",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 43,
+    "user_id": 14,
+    "credit_card": "374288697705654",
+    "credit_card_type": "americanexpress"
+  },
+  {
+    "id": 44,
+    "user_id": 3,
+    "credit_card": "5100143252858358",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 45,
+    "user_id": 2,
+    "credit_card": "6334077943364290631",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 46,
+    "user_id": 7,
+    "credit_card": "374283283112860",
+    "credit_card_type": "americanexpress"
+  },
+  {
+    "id": 47,
+    "user_id": 6,
+    "credit_card": "201791225487405",
+    "credit_card_type": "diners-club-enroute"
+  },
+  {
+    "id": 48,
+    "user_id": 12,
+    "credit_card": "374283538243650",
+    "credit_card_type": "americanexpress"
+  },
+  {
+    "id": 49,
+    "user_id": 1,
+    "credit_card": "3586185058663407",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 50,
+    "user_id": 22,
+    "credit_card": "6762245424800072",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 51,
+    "user_id": 32,
+    "credit_card": "5048373947053397",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 52,
+    "user_id": 18,
+    "credit_card": "3552445774348356",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 53,
+    "user_id": 14,
+    "credit_card": "5602247323849305",
+    "credit_card_type": "bankcard"
+  },
+  {
+    "id": 54,
+    "user_id": 9,
+    "credit_card": "201618462389418",
+    "credit_card_type": "diners-club-enroute"
+  },
+  {
+    "id": 55,
+    "user_id": 38,
+    "credit_card": "5007660546435408",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 56,
+    "user_id": 13,
+    "credit_card": "3580788596057762",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 57,
+    "user_id": 20,
+    "credit_card": "3534275264343929",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 58,
+    "user_id": 18,
+    "credit_card": "3584044950319398",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 59,
+    "user_id": 28,
+    "credit_card": "3537380855286144",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 60,
+    "user_id": 28,
+    "credit_card": "3588137784289013",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 61,
+    "user_id": 43,
+    "credit_card": "4175003151583635",
+    "credit_card_type": "visa-electron"
+  },
+  {
+    "id": 62,
+    "user_id": 40,
+    "credit_card": "4844595759175525",
+    "credit_card_type": "visa-electron"
+  },
+  {
+    "id": 63,
+    "user_id": 26,
+    "credit_card": "3585135965038921",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 64,
+    "user_id": 47,
+    "credit_card": "201646129332711",
+    "credit_card_type": "diners-club-enroute"
+  },
+  {
+    "id": 65,
+    "user_id": 37,
+    "credit_card": "5100145779433813",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 66,
+    "user_id": 19,
+    "credit_card": "3561172416145227",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 67,
+    "user_id": 23,
+    "credit_card": "5602242379652216",
+    "credit_card_type": "china-unionpay"
+  },
+  {
+    "id": 68,
+    "user_id": 23,
+    "credit_card": "3588727646570236",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 69,
+    "user_id": 1,
+    "credit_card": "5602236084277616",
+    "credit_card_type": "bankcard"
+  },
+  {
+    "id": 70,
+    "user_id": 2,
+    "credit_card": "3529922012923539",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 71,
+    "user_id": 42,
+    "credit_card": "30441317250108",
+    "credit_card_type": "diners-club-carte-blanche"
+  },
+  {
+    "id": 72,
+    "user_id": 46,
+    "credit_card": "6397089544997506",
+    "credit_card_type": "instapayment"
+  },
+  {
+    "id": 73,
+    "user_id": 37,
+    "credit_card": "5508764103924632",
+    "credit_card_type": "diners-club-us-ca"
+  },
+  {
+    "id": 74,
+    "user_id": 49,
+    "credit_card": "3585674223653980",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 75,
+    "user_id": 47,
+    "credit_card": "5401857582565112",
+    "credit_card_type": "diners-club-us-ca"
+  },
+  {
+    "id": 76,
+    "user_id": 23,
+    "credit_card": "3571224772655535",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 77,
+    "user_id": 41,
+    "credit_card": "3576920240450483",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 78,
+    "user_id": 5,
+    "credit_card": "3573954319368741",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 79,
+    "user_id": 3,
+    "credit_card": "5602212126303249",
+    "credit_card_type": "bankcard"
+  },
+  {
+    "id": 80,
+    "user_id": 15,
+    "credit_card": "337941600886658",
+    "credit_card_type": "americanexpress"
+  },
+  {
+    "id": 81,
+    "user_id": 50,
+    "credit_card": "374283180898264",
+    "credit_card_type": "americanexpress"
+  },
+  {
+    "id": 82,
+    "user_id": 15,
+    "credit_card": "5570556379021801",
+    "credit_card_type": "diners-club-us-ca"
+  },
+  {
+    "id": 83,
+    "user_id": 6,
+    "credit_card": "3537295281469678",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 84,
+    "user_id": 38,
+    "credit_card": "4175002672784318",
+    "credit_card_type": "visa-electron"
+  },
+  {
+    "id": 85,
+    "user_id": 7,
+    "credit_card": "3554621988232762",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 86,
+    "user_id": 21,
+    "credit_card": "3559803648186084",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 87,
+    "user_id": 4,
+    "credit_card": "3531828278507716",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 88,
+    "user_id": 15,
+    "credit_card": "3579779841453537",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 89,
+    "user_id": 13,
+    "credit_card": "3575949883021757",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 90,
+    "user_id": 29,
+    "credit_card": "3554290899774823",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 91,
+    "user_id": 11,
+    "credit_card": "3546165478131325",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 92,
+    "user_id": 50,
+    "credit_card": "3582422852600242",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 93,
+    "user_id": 38,
+    "credit_card": "4913710410008371",
+    "credit_card_type": "visa-electron"
+  },
+  {
+    "id": 94,
+    "user_id": 6,
+    "credit_card": "5602228788388575",
+    "credit_card_type": "bankcard"
+  },
+  {
+    "id": 95,
+    "user_id": 44,
+    "credit_card": "676143278033516342",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 96,
+    "user_id": 50,
+    "credit_card": "3576412050807044",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 97,
+    "user_id": 44,
+    "credit_card": "3533350691619794",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 98,
+    "user_id": 18,
+    "credit_card": "3571324002996756",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 99,
+    "user_id": 34,
+    "credit_card": "5100170996865415",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 100,
+    "user_id": 2,
+    "credit_card": "6331102630137725267",
+    "credit_card_type": "switch"
+  }
+]
